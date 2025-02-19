@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>welcome to Ec2 running instance....</h1>
+        <h1>welcome to Ec2 running instance.... Shivam Singh</h1>
         <h2>Launch...!</h2>
       </div>
     </>
